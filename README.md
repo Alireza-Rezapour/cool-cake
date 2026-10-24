@@ -914,7 +914,7 @@ export const formatPrice = (amount: number) => `${numberFormatter.format(amount)
 
 ## درباره‌ی من
 
-**[نام شما]** · توسعه‌دهنده‌ی وب · [LinkedIn] · [GitHub] · [ایمیل]
+**[علیرضا رضاپور]** · توسعه‌دهنده‌ی وب · [https://github.com/Alireza-Rezapour] · [alirezarezapoor33@gmail.com]
 
 اگر می‌خواهید کد، معماری یا هر یک از تصمیم‌های بالا را با هم مرور کنیم، خوشحال می‌شوم آن را نشان بدهم.
 
